@@ -195,7 +195,17 @@ h1{
   
   
 }
-  
+
+ol {
+    background: #F1D79C;
+    padding: 20px;
+}
+
+ol li {
+    background: #FAF2BF;
+    padding: 5px;
+    margin-left: 35px;
+}
   
   
   
