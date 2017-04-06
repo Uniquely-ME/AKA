@@ -190,18 +190,3 @@ Page: Home
 Page: Our Staff
 ********************/
 
-ul {
-    background: #f9d6bd;
-    padding: 20px;
-}
-
-ol li {
-    background: #f9d6bd;
-    padding: 5px;
-    margin-left: 35px;
-}
-
-ul li {
-    background: #cce5ff;
-    margin: 5px;
-}
